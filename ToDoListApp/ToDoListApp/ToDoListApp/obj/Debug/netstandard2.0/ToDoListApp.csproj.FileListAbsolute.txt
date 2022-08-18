@@ -1,0 +1,15 @@
+C:\Users\chiat\source\repos\ToDoListApp\ToDoListApp\ToDoListApp\bin\Debug\netstandard2.0\ToDoListApp.deps.json
+C:\Users\chiat\source\repos\ToDoListApp\ToDoListApp\ToDoListApp\bin\Debug\netstandard2.0\ToDoListApp.dll
+C:\Users\chiat\source\repos\ToDoListApp\ToDoListApp\ToDoListApp\bin\Debug\netstandard2.0\ToDoListApp.pdb
+C:\Users\chiat\source\repos\ToDoListApp\ToDoListApp\ToDoListApp\obj\Debug\netstandard2.0\ToDoListApp.csproj.AssemblyReference.cache
+C:\Users\chiat\source\repos\ToDoListApp\ToDoListApp\ToDoListApp\obj\Debug\netstandard2.0\ToDoListApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\chiat\source\repos\ToDoListApp\ToDoListApp\ToDoListApp\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\chiat\source\repos\ToDoListApp\ToDoListApp\ToDoListApp\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\chiat\source\repos\ToDoListApp\ToDoListApp\ToDoListApp\obj\Debug\netstandard2.0\ToDoListApp.AssemblyInfoInputs.cache
+C:\Users\chiat\source\repos\ToDoListApp\ToDoListApp\ToDoListApp\obj\Debug\netstandard2.0\ToDoListApp.AssemblyInfo.cs
+C:\Users\chiat\source\repos\ToDoListApp\ToDoListApp\ToDoListApp\obj\Debug\netstandard2.0\ToDoListApp.csproj.CoreCompileInputs.cache
+C:\Users\chiat\source\repos\ToDoListApp\ToDoListApp\ToDoListApp\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\chiat\source\repos\ToDoListApp\ToDoListApp\ToDoListApp\obj\Debug\netstandard2.0\ToDoListApp.dll
+C:\Users\chiat\source\repos\ToDoListApp\ToDoListApp\ToDoListApp\obj\Debug\netstandard2.0\refint\ToDoListApp.dll
+C:\Users\chiat\source\repos\ToDoListApp\ToDoListApp\ToDoListApp\obj\Debug\netstandard2.0\ToDoListApp.pdb
+C:\Users\chiat\source\repos\ToDoListApp\ToDoListApp\ToDoListApp\obj\Debug\netstandard2.0\ref\ToDoListApp.dll
